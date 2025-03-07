@@ -5,4 +5,6 @@
     export default{
         name: 'InputText'
     }
-</script>
+</script>  
+
+<!--teste-->
